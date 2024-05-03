@@ -1,0 +1,11 @@
+#Contoh Input String 
+nama = input("masukkan nama Anda: ")
+print("Hallo,", nama)
+
+#Contoh Input Integer
+umur =int(input("masukkan umur bulat: "))
+print("umur anda:", umur)
+
+#Contoh Input Float
+ipk = float(input("masukkan bilangan ipk: "))
+print(IPK Anda:", ipk)
